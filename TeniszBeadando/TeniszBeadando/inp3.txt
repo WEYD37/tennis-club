@@ -1,0 +1,10 @@
+﻿.
+Foglalas:	John Doe	1	2023-06-22	14
+Foglalas torles:	John Doe	1	2023-06-22	14
+Foglalas:	Jane Smith	2	2023-06-22	16
+Foglalas:	Mark Johnson	1	2023-06-23	10
+Foglalas:	Mark Johnson	2	2023-06-23	11
+Foglalas:	Mark Johnson	3	2023-06-23	12
+Foglalas:	John Doe	3	2023-06-23	14
+Foglalas:	Emily Davis	2	2023-06-23	16
+Foglalas:	Emily Davis	3	2023-06-23	12
